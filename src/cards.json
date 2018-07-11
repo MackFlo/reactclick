@@ -1,0 +1,74 @@
+[
+    {
+        "id":1,
+        "name": "Abra",
+        "image":"./public/images/abra.png",
+        "count": 0
+    },
+    {
+        "id":2,
+        "name": "Ekans",
+        "image":"./public/images/ekans.png",
+        "count": 0
+    },
+    {
+        "id":3,
+        "name": "Growlithe",
+        "image":"./public/images/growlithe.png",
+        "count": 0
+    },
+    {
+        "id":4,
+        "name": "Oddish",
+        "image":"./public/images/oddish.png",
+        "count": 0
+    },
+    {
+        "id":5,
+        "name": "Pikachu",
+        "image":"./public/images/pikachu.png",
+        "count": 0
+    },
+    {
+        "id":6,
+        "name": "Poliwag",
+        "image":"./public/images/poliwag.png",
+        "count": 0
+    },
+    {
+        "id":7,
+        "name": "Primeape",
+        "image":"./public/images/primeape.png",
+        "count": 0
+    },
+    {
+        "id":8,
+        "name": "Rattata",
+        "image":"./public/images/rattata.png",
+        "count": 0
+    },
+    {
+        "id":9,
+        "name": "Sandshrew",
+        "image":"./public/images/sandshrew.png",
+        "count": 0
+    },
+    {
+        "id":10,
+        "name": "Vulpix",
+        "image":"./public/images/vulpix.png",
+        "count": 0
+    },
+    {
+        "id":11,
+        "name": "Wigglytuff",
+        "image":"./public/images/pikachu.png",
+        "count": 0
+    },
+    {
+        "id":12,
+        "name": "Zubat",
+        "image":"./public/images/zubat.png",
+        "count": 0
+    }
+]

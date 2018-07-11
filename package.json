@@ -1,0 +1,22 @@
+{
+  "name": "reactclick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MackFlo/reactclick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MackFlo/reactclick/issues"
+  },
+  "homepage": "https://github.com/MackFlo/reactclick#readme",
+  "dependencies": {
+    "react": "^16.4.1"
+  }
+}
