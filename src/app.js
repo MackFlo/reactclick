@@ -1,10 +1,10 @@
 import React, { Component } from "react";
-import Card from "./components/card";
-import Wrapper from "./components/wrapper";
-import Header from "./components/header";
+import card from "./components/card";
+import wrapper from "./components/wrapper";
+import header from "./components/header";
 import cards from "./cards.json";
 
-class App extends Component {
+class app extends Component {
   state = {
     cards,
     score: 0,
@@ -58,4 +58,4 @@ class App extends Component {
   }
 }
 
-export default App;
+export default app;
