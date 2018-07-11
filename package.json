@@ -1,23 +1,16 @@
 {
   "name": "reactclick",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/MackFlo/reactclick.git"
-  },
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/MackFlo/reactclick/issues"
-  },
-  "homepage": "https://github.com/MackFlo/reactclick#readme",
+  "private": true,
   "dependencies": {
     "react": "^16.4.1",
-    "yarn": "^1.7.0"
+    "react-dom": "^16.4.1",
+    "react-scripts": "1.1.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
   }
 }
