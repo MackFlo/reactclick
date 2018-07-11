@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/MackFlo/reactclick#readme",
   "dependencies": {
-    "react": "^16.4.1"
+    "react": "^16.4.1",
+    "yarn": "^1.7.0"
   }
 }
